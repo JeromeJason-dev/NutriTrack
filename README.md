@@ -39,6 +39,15 @@ nutritrack/
 
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 
+## Installation
+1. Clone the repository:
+
+```bash
+git clone https://github.com/JeromeJason-dev/NutriTrack.git
+cd nutritrack
+```
+2. Open the project: Simply open the index.html file in your preferred browser to view the current build.
+
 ## How to Use
 
 1. **Log a meal manually**
