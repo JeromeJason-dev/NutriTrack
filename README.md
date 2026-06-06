@@ -28,7 +28,7 @@ nutritrack/
 ├── Tailwindcss/
 │
 ├── js/
-│   └── style.js             # Core JavaScript application logic
+│   └── script.js             # Core JavaScript application logic
 │
 └── index.html             # HTML5 Page Structure
 ```
